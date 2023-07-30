@@ -1,0 +1,8 @@
+name: FaastPlugin
+main: fr.faast.projet.Main
+author: '_Faast'
+version: ${project.version}
+description: "Pour voir et avoir plus d'informations concernant le OP PARTY"
+commands:
+  discord:
+  doc:
